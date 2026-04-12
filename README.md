@@ -17,3 +17,8 @@ mv MacBook-kitty.conf kitty.conf
 cp kitty.conf ~/.config/kitty
 rm -rf ThinkPad-kitty.conf
 ```
+
+> For the best effect on your mac you should install JetBrains Mono Nerd font
+```
+brew install --cask font-jetbrains-mono-nerd-font
+```
