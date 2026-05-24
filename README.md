@@ -27,7 +27,7 @@ brew install --cask font-jetbrains-mono-nerd-font
 ## Installation for ThinkPad
 ```
 cd ~/
-git clone https://github.com/GadzhievAleksandr/simple-kitty-config
+https://github.com/S0LYER/simple-kitty-config
 cd simple-kitty-config
 mv ThinkPad-kitty.conf kitty.conf
 cp kitty.conf ~/.config/kitty
